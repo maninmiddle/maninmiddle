@@ -1,5 +1,3 @@
-Header
-
 # I'm a beginner Software Engineer
 
 ### Languages
