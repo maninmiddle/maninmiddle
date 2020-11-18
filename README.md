@@ -1,16 +1,13 @@
-### Hi there 👋
+Header
 
-<!--
-**maninmiddle/maninmiddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a beginner Software Engineer
 
-Here are some ideas to get you started:
+### Languages
+![bash](https://img.shields.io/badge/-BASH-7289da?style=for-the-badge&logo=gnu-bash)
+![html](https://img.shields.io/badge/-HTML-7289da?style=for-the-badge&logo=html5)
+![java](https://img.shields.io/badge/-JAVA-7289da?style=for-the-badge&logo=java&logoColor=ffffff)
+![php](https://img.shields.io/badge/-PHP-7289da?style=for-the-badge&logo=PHP&logoColor=ffffff)
+![php](https://img.shields.io/badge/-Python-7289da?style=for-the-badge&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-7289da?style=for-the-badge&logo=telegram&logoColor=7289da)](https://t.me/maninmiddle)
