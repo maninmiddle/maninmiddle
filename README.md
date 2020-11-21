@@ -1,4 +1,3 @@
-# I'm a beginner Software Engineer
 
 ### Languages
 ![bash](https://img.shields.io/badge/-BASH-7289da?style=for-the-badge&logo=gnu-bash)
