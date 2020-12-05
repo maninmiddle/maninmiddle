@@ -10,6 +10,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-7289da?style=for-the-badge&logo=telegram&logoColor=7289da)](https://t.me/maninmiddle)
 <p align="center"> 
 <a href="https://github.com/maninmiddle/material-hunter"><img title="Material Hunter" src="https://github-readme-stats.vercel.app/api/pin/?username=maninmiddle&repo=material-hunter&theme=onedark"></a>
-<a href="https://github.com/maninmiddle/EvolveFM-App"><img title="EvolveFM App" src="https://github-readme-stats.vercel.app/api/pin/?username=maninmiddle&repo=EvolveFM App&theme=onedark"</a>
+<a href="https://github.com/maninmiddle/EvolveFM-App"><img title="EvolveFM App" src="https://github-readme-stats.vercel.app/api/pin/?username=maninmiddle&repo=EvolveFM-App&theme=onedark"</a>
 <a href="https://github.com/maninmiddle/termux-lockphish"><img title="Tstyle" src="https://github-readme-stats.vercel.app/api/pin/?username=maninmiddle&repo=termux-lockphish&theme=onedark"></a>
 </p>
