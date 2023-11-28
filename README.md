@@ -2,15 +2,9 @@
 
 
  <p align="center">
-      <samp><br>
-            <b>
-            Hello There!
+      <samp>
         <br>
-            I'm Alexander
-            </b>
-        <br>
-        <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=7289da&center=true&width=410&height=45&lines=be,+not+seem+to+be.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=7289da&center=true&width=410&height=45&lines=hello+there">
        <br>
             <b>
            ~ maninmiddle ~
